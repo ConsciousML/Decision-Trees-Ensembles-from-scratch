@@ -1,14 +1,18 @@
 # Decision-Trees-From-Scratch
 
 ## Objective
-The goal of this project is to implement a Decision Tree from scratch using PyTorch and see how it performs on real-world data.
-We will try to predict if a patient has a heart disease or not.
+The goal of this project is to implement the following algorithms from scratch using PyTorch:
+- Decision Trees
+- Random Forest
+- AdaBosst
+and see how it performs on real-world data.
+During this experiment, we will try to predict if a patient has a heart disease or not.
 
 ## Dataset
-For this experiment, we will be using the Heart Disease Dataset:
+We will be using the Heart Disease Dataset:
 https://archive.ics.uci.edu/ml/datasets/heart+Disease
 
-The 14 features were selected among 76 attributes: 
+14 features were selected among 76 attributes: 
 1. age: age in years
 2. sex:
     - 1: male
