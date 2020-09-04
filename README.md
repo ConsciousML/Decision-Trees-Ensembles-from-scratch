@@ -4,8 +4,8 @@
 The goal of this project is to implement the following algorithms from scratch using PyTorch:
 - Decision Trees
 - Random Forest
-- AdaBosst
-and see how it performs on real-world data.
+- AdaBoost<br>
+and see how it performs on real-world data.<br>
 During this experiment, we will try to predict if a patient has a heart disease or not.
 
 ## Dataset
