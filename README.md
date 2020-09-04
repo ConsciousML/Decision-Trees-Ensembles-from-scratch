@@ -5,6 +5,7 @@ The goal of this project is to implement the following algorithms from scratch u
 - Decision Trees
 - Random Forest
 - AdaBoost<br>
+
 and see how it performs on real-world data.<br>
 During this experiment, we will try to predict if a patient has a heart disease or not.
 
