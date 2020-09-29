@@ -9,6 +9,9 @@ The goal of this project is to implement the following algorithms from scratch u
 and see how it performs on real-world data.<br>
 During this experiment, we will try to predict if a patient has a heart disease or not.
 
+## Blog Post
+You can find the post related to this project [here](https://consciousml.github.io/blog/decision-tree/random-forest/adaboost/heart-disease/pytorch/eda/from-scratch/2020/09/23/Decision-Trees-and-Ensembles.html).
+
 ## Dataset
 We will be using the Heart Disease Dataset:
 https://archive.ics.uci.edu/ml/datasets/heart+Disease
@@ -52,6 +55,3 @@ In order to install the conda environment needed to run the notebook, run the fo
 conda env create --file requirements.yml
 conda activate torch
 ```
-
-## Notebook
-The experiment can be found in the notebook at the root of the project.
